@@ -1,2 +1,2 @@
-# Robotics-Class-Codebase
+# Robotics Class Codebase
 Code for robotics class
